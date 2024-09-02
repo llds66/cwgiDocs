@@ -39,6 +39,6 @@ init()
 
 ## Detailed configuration
 
-1. [GitHub App](/github-app) - _REQUIRED_, you need a GitHub App to authenticate users
-2. [Server side](/server-side) - Optional, you need a back-end to handle GitHub API requests
-3. [Client side](/client-side) - _PARTIAL_, you need to include the script and style in your blog
+1. [GitHub App](/docs/githubApp) - _REQUIRED_, you need a GitHub App to authenticate users
+2. [Server side](/docs/server) - Optional, you need a back-end to handle GitHub API requests
+3. [Client side](/docs/client) - _PARTIAL_, you need to include the script and style in your blog

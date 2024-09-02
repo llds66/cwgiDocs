@@ -39,6 +39,6 @@ init()
 
 ## 详细配置
 
-1. [GitHub App](/github-app) - _必需_, 您需要一个 GitHub 应用程序来验证用户
-2. [Server side](/server-side) - 可选, 您需要一个后端来处理 GitHub API 请求
-3. [Client side](/client-side) - _必需_, 您需要在博客中包含脚本和样式
+1. [GitHub App](/zh/docs/githubApp) - _必需_, 您需要一个 GitHub 应用程序来验证用户
+2. [Server side](/zh/docs/server) - 可选, 您需要一个后端来处理 GitHub API 请求
+3. [Client side](/zh/docs/client) - _必需_, 您需要在博客中包含脚本和样式
