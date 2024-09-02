@@ -4,18 +4,17 @@ import { defineConfig } from 'vitepress'
 export const zh = defineConfig({
   title: "CWGI",
   description: "a small and beautiful comment system based on GitHub Issues",
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     outline: {
       label: '导航'
     },
-    lastUpdated: {
-      text: '最后更新于',
-      formatOptions: {
-        dateStyle: 'short',
-        timeStyle: 'medium'
-      }
+    editLink: {
+      pattern: 'https://github.com/llds66/cwgiDocs/tree/main/:path',
+      text: '在 GitHub 上编辑此页面'
     },
+
     nav: [
       { text: '首页', link: '/' },
       { text: '快速开始', link: '/zh/started' },
@@ -51,9 +50,15 @@ export const zh = defineConfig({
         ]
       },
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/jw-12138/cwgi-cli' }
-    ]
+    ],
+    lastUpdated: {
+      text: '最后更新于',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'medium'
+      }
+    },
   }
 })

@@ -1,5 +1,6 @@
 ---
 title: 'GitHubApp 配置'
+lastUpdated: 2024-6-26T21:07:00+8:00
 ---
 
 # GitHubApp 配置

@@ -5,15 +5,20 @@ export const en = defineConfig({
   title: "CWGI",
   lang: 'en-US',
   description: "a small and beautiful comment system based on GitHub Issues",
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     outline: {
       label: 'Navigation'
     },
+    editLink: {
+      pattern: 'https://github.com/llds66/cwgiDocs/tree/main/:path',
+      text: 'Edit this page on GitHub'
+    },
     lastUpdated: {
-      text: 'Actualizado en',
+      text: 'Updated at',
       formatOptions: {
-        dateStyle: 'short',
+        dateStyle: 'full',
         timeStyle: 'medium'
       }
     },
