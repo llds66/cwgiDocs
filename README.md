@@ -1,5 +1,8 @@
 ## 是什么？
 基于 GitHub Issues 的极简评论系统
+## 效果图
+<img src="https://cdn.jsdelivr.net/gh/llds66/imageBed/githubImage/20240524/1726333254567.png" style="width:60%;">
+
 ## 立即体验
 ```html
 <!-- index.html -->
