@@ -12,6 +12,9 @@ Read CWGI author[Jacky Wong](https://github.com/jw-12138/) published blog posts[
 ## What It Is
 A minimalist comment system based on GitHub Issues
 
+## Illustrative Image
+<img src="https://cdn.jsdelivr.net/gh/llds66/imageBed/githubImage/20240524/1726333254567.png" style="width:60%;">
+
 ## Key Features
 + Fast to load (~ 23Kb gzipped)
 + No Ads, Forever 🤝
