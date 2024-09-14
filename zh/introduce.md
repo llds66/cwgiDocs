@@ -6,6 +6,8 @@ title: What is CWGI?
 
 ## 起因
 阅读 CWGI 的作者  [Jacky Wong](https://github.com/jw-12138/) 发表的博客文章[《开源了博客的评论系统》](https://jw1.dev/open-sourcing-comment-system/)与[《从头做一个基于GitHub Issues的评论系统》](https://jw1.dev/2022/10/23/a01/), 更好地了解 CWGI.
+## 效果图
+<img src="https://cdn.jsdelivr.net/gh/llds66/imageBed/githubImage/20240524/1726333254567.png" style="width:60%;">
 
 ## 是什么
 基于 GitHub Issues 的极简评论系统
